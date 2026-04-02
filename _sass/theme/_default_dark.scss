@@ -55,6 +55,7 @@ $sidebar-screen-min-width   : 1024px;
 }
 
 /* Hide the light/dark mode toggle button permanently */
-.theme__toggle {
+.theme-toggle,
+#theme-icon {
     display: none !important;
 }
