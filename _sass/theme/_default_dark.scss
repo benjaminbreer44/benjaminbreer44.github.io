@@ -35,7 +35,7 @@ $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
 /* Dark theme for the site */
-html[data-theme="dark"] {
+:root {
     --global-base-color                 : #{$primary-color};
     --global-bg-color                   : #{$background};
     --global-footer-bg-color            : #{$background};
@@ -52,4 +52,9 @@ html[data-theme="dark"] {
     --global-text-color                 : #{$text};
     --global-text-color-light           : #f3f3f3;
     --global-thead-color                : #{$background-lighter};
+}
+
+/* Hide the light/dark mode toggle button permanently */
+.theme__toggle {
+    display: none !important;
 }
