@@ -1,6 +1,7 @@
 ---
 title: "Energetic ion dynamics in the perturbed electromagnetic fields near Europa"
 collection: publications
+category: manuscripts
 permalink: /publication/2019-09-06-europa-energetic-ions
 date: 2019-09-06
 venue: 'Journal of Geophysical Research: Space Physics'
