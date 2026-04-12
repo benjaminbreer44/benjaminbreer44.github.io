@@ -18,4 +18,4 @@ Detonations are combustion waves that propagate at supersonic speeds. In many pr
 
 Convectively bounded inwardly propagating flames in White Dwarfs
 ------
-The fate of White Dwarf (WD) binary systems is of great interest, as we can observe many possible outcomes (e.g., Type Ia supernovae, neutron star). In one scenario, carbon can ignite in a region outside the core but deep within the stellar interior and lead to a subsonic inwadly propagating flame. I am interested in how thermohaline mixing and other convective instabilities can influence the propagation and fate of the flame.
+The fate of White Dwarf (WD) binary systems is of great interest, as we can observe many possible outcomes (e.g., Type Ia supernovae, neutron star). In one scenario, carbon can ignite in a region outside the core but deep within the stellar interior and lead to a subsonic inwardly propagating flame. I am interested in how thermohaline mixing and other convective instabilities can influence the propagation and fate of the flame.
