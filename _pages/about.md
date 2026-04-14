@@ -14,7 +14,7 @@ Research interests
 
 Detonation-turbulence interactions
 ------
-Detonations are combustion waves that propagate at supersonic speeds. In many practical settings, detonation waves propagate in highly turbulent flows. I am interested in the structure of detonation waves when they interact with turbulence. This interaction is likely found in advanced propulsion systems (e.g, rotating detonation engines), industrial explosions, and supernovae. So far, I have developed a theoretical reigme diagram to describe turbulent detonations and have been conducting lagre direct numerical simulations to validate the predictions.
+Detonations are combustion waves that propagate at supersonic speeds. In many practical settings, detonation waves propagate in highly turbulent flows. I am interested in the structure of detonation waves when they interact with turbulence. This interaction is likely found in advanced propulsion systems (e.g, rotating detonation engines), industrial explosions, and supernovae. So far, I have developed a theoretical regime diagram to describe turbulent detonations and have been conducting large direct numerical simulations to validate the predictions.
 
 Convectively bounded inwardly propagating flames in White Dwarfs
 ------
